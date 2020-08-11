@@ -1,0 +1,32 @@
+.fieldset{
+    border: 1px solid #cacaca;
+    padding: 1.25rem;
+    margin: 1.125rem 0; 
+  }
+  .fieldset legend {
+      background: #fefefe;
+      padding: 0 0.1875rem;
+      margin: 0;
+      margin-left: -0.1875rem; 
+  }
+  
+  #grad {
+    background-image: linear-gradient(to right, #00ff85 , #f2eb81);
+  }
+  
+  #subtitle{
+    color: #10701c;
+  }
+  
+  #btn-color {
+    color: white;
+    background-color: #617764;
+  }
+  
+  #bk-color {
+    background-color: #0c4c54; 
+  }
+  
+  #text-title {
+    color: #168997;
+  }
