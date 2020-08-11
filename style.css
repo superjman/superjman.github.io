@@ -1,4 +1,4 @@
-.fieldset{
+/*.fieldset{
     border: 1px solid #cacaca;
     padding: 1.25rem;
     margin: 1.125rem 0; 
@@ -9,7 +9,7 @@
       margin: 0;
       margin-left: -0.1875rem; 
   }
-  
+  */
   #grad {
     background-image: linear-gradient(to right, #00ff85 , #f2eb81);
   }
