@@ -39,11 +39,13 @@ body,html {
   background-color: #4c4442;
 }
 
-.navbar-custom .navbar-nav .nav-item .nav-link .navbar-brand{
+.navbar-custom .navbar-nav .nav-item .nav-link {
   color: #d2b48c;
 }
 
-
+.navbar-brand {
+  color: #d2b48c;
+}
 
 .fab .fa-jedi-order .fa-3x{
   color: #d2b48c;
