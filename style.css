@@ -6,36 +6,15 @@ body,html {
   background-image: url("/images/home-bg.jpg");
 
   height: 1024px;
-
-  /*background-attachment: fixed;
-  background-position: center;
-  background-repeat: no-repeat;
-  background-size: cover;*/
-}
-
-.parallax-project {
-  background-image: url("/images/home-bg.jpg");
-
-  height: 1024px;
-
-  background-attachment: fixed;
-  background-position: center;
-  background-repeat: no-repeat;
-  background-size: cover;
 }
 
 .parallax-experience {
   background-image: url("/images/experience-bg.jpg");
 
   height: 1024px;
-
-  /*background-attachment: fixed;
-  background-position: center;
-  background-repeat: no-repeat;
-  background-size: cover;*/
 }
 
-.navbar-brand {
+.navbar-text {
   background-color: #d2b48c;
 }
 
