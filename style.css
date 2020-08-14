@@ -39,7 +39,7 @@ body,html {
   background-color: #4c4442;
 }
 
-.navbar-custom .navbar-nav .nav-item {
+.navbar-custom .navbar-nav .nav-item .nav-link{
   color: #d2b48c;
 }
 
