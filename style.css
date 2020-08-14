@@ -13,7 +13,7 @@ body,html {
   background-size: cover;
 }
 
-#navbar-color {
+.navbar-custom {
   background-color: #4c4442;
   color: #d2b48c;
 }
