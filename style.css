@@ -25,18 +25,7 @@ body,html {
 }
 
 .parallax-experience {
-  background-image: url("/images/home-bg.jpg");
-
-  height: 1024px;
-
-  background-attachment: fixed;
-  background-position: center;
-  background-repeat: no-repeat;
-  background-size: cover;
-}
-
-.parallax-me {
-  background-image: url("/images/home-bg.jpg");
+  background-image: url("/images/experience-bg.jpg");
 
   height: 1024px;
 
