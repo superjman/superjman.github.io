@@ -13,11 +13,44 @@ body,html {
   background-size: cover;
 }
 
+.parallax-project {
+  background-image: url("/images/home-bg.jpg");
+
+  height: 1024px;
+
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.parallax-experience {
+  background-image: url("/images/home-bg.jpg");
+
+  height: 1024px;
+
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.parallax-me {
+  background-image: url("/images/home-bg.jpg");
+
+  height: 1024px;
+
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
 .navbar-custom {
   background-color: #4c4442;
 }
 
-.navbar-custom .nav-link {
+.navbar-custom .navbar-nav .nav-link {
   color: #d2b48c;
 }
 
