@@ -5,13 +5,17 @@ body,html {
 .parallax {
   background-image: url("/images/home-bg.jpg");
 
-  height: 1024px;
+  /*height: 1024px;*/
+
+  background-size: auto;
 }
 
 .parallax-experience {
   background-image: url("/images/experience-bg.jpg");
 
-  height: 1024px;
+  /*height: 1024px;*/
+
+  background-size: auto;
 }
 
 .navbar-text {
