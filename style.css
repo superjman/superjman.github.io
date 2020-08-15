@@ -47,7 +47,7 @@ body,html {
 
 .picture {
   width: 60%; 
-  height: 90%;
+  height: 100%;
 
-  border: 3px solid #FED49C;
+  border: 5px solid #FED49C;
 }
