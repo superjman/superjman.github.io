@@ -8,7 +8,7 @@ body,html {
   height: 1024px;
   width: 100%;
   background-repeat: no-repeat;
-  background-size: cover;
+  
 }
 
 .parallax-experience {
@@ -17,7 +17,7 @@ body,html {
   height: 1024px;
   width: 100%;
   background-repeat: no-repeat;
-  background-size: cover;
+  
 }
 
 .navbar-text {
