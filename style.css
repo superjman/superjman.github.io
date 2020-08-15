@@ -44,3 +44,10 @@ body,html {
   font-family: 'Roboto', sans-serif;
   color: #FED49C;
 }
+
+.picture {
+  width: 80%; 
+  height: 80%;
+
+  border: 1px solid #FED49C;
+}
