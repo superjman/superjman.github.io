@@ -58,10 +58,8 @@ body,html {
 }
 /*Projects Page image hover*/
 .image:hover .img__description{
-  /*background-color: red;
-  opacity: 0.5;*/
   visibility: visible;
-  opacity: 1;
+  opacity: .5;
 }
 
 .img__description {
