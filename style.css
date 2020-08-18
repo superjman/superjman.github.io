@@ -1,7 +1,7 @@
 body,html {
   height: 100%;
 }
-
+/*Background for home page needs to change name*/
 .parallax {
   background-image: url("/images/home-bg.jpg");
 
@@ -10,7 +10,7 @@ body,html {
   background-repeat: no-repeat;
   background-size: cover;
 }
-
+/*Background for work experience page needs to change name*/
 .parallax-experience {
   background-image: url("/images/experience-bg.jpg");
 
@@ -31,23 +31,27 @@ body,html {
 .navbar-custom .navbar-nav .nav-item .nav-link {
   color: #d2b48c;
 }
-
+/*Logo*/
 .fab .fa-jedi-order{
   color: #d2b48c;
 }
-
+/*First page font*/
 .title-font1 {
   font-family: 'Ranga', cursive;
 }
-
+/*First page font*/
 .title-font2 {
   font-family: 'Roboto', sans-serif;
   color: #FED49C;
 }
-
+/*About Me page pictures*/
 .picture {
   width: 60%; 
   height: 100%;
 
   border: 5px solid #FED49C;
+}
+/*Projects Page image hover*/
+.image:hover {
+  color: orange;
 }
