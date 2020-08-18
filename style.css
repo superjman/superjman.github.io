@@ -51,6 +51,9 @@ body,html {
 
   border: 5px solid #FED49C;
 }
+.image {
+  position: relative;
+}
 /*Projects Page image hover*/
 .image:hover .img__description{
   /*background-color: red;
