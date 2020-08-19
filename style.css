@@ -76,3 +76,8 @@ body,html {
   /* transition effect. not necessary */
   transition: opacity .2s, visibility .2s;
 }
+
+.line {
+  color: #d24d4d;
+  width: 20%;
+}
