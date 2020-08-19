@@ -54,7 +54,7 @@ body,html {
 .image {
   position: relative;
   width:100%; 
-  height:600px;
+  height:400px;
 }
 /*Projects Page image hover*/
 .image:hover .img__description{
