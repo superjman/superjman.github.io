@@ -63,9 +63,9 @@ body,html {
 }
 
 .img__description {
-  position: absolute;
-  top: 0;
-  bottom: 0;
+  position: relative;
+  top: auto;
+  bottom: auto;
   left: 0;
   right: 0;
   background: rgba(29, 106, 154, 0.72);
