@@ -32,7 +32,9 @@ body,html {
   color: #d2b48c;
 }
 /*Logo*/
-.fab .fa-uikit{
+.fa-uikit{
+  height: 25px;
+  width: 25px;
   color: #d2b48c;
 }
 /*First page font*/
