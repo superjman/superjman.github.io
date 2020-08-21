@@ -32,6 +32,9 @@ body,html {
 .navbar-custom .navbar-nav .nav-item .nav-link {
   color: #d2b48c;
 }
+#navbar {
+  top: -50px;
+}
 /*Logo*/
 .i{
   height: 100%;
