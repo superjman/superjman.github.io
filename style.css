@@ -32,6 +32,11 @@ body,html {
 .navbar-custom .navbar-nav .nav-item .nav-link {
   color: #d2b48c;
 }
+
+.navbar-brand {
+  color: #d2b48c;
+}
+
 #navbar {
   top: -60px;
 }
