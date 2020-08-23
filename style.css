@@ -42,7 +42,7 @@ body,html {
 }
 /*Logo*/
 .i{
-  height: 70%;
+  height: 100%;
   width: 100%;
   color: #d2b48c;
 }
@@ -57,7 +57,7 @@ body,html {
 }
 /*About Me page pictures*/
 .picture {
-  width: 100%; 
+  width: 80%; 
   height: 100%;
 
   border: 5px solid #FED49C;
