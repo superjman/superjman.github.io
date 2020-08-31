@@ -55,6 +55,11 @@ body,html {
   font-family: 'Roboto', sans-serif;
   color: #FED49C;
 }
+/*First page font*/
+.title-font3 {
+  font-family: 'Roboto', sans-serif;
+  color: #d2b48c;
+}
 /*About Me page pictures*/
 .picture {
   width: 100%; 
