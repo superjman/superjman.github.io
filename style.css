@@ -37,6 +37,10 @@ body,html {
   color: #d2b48c;
 }
 
+.nav a {
+  font-size: 1.8rem !important;
+}
+
 #navbar {
   top: -60px;
 }
